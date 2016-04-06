@@ -845,7 +845,8 @@ Other patterns for module definition may be found in the `AMD API definitions <h
 
 .. _resource_registry_error_anon_define:
 
-The ``mismatched anonymous define`` error
+The ``mismatched anonymous 
+define`` error
 -----------------------------------------
 
 If you have worked with RequireJS before, you are likely to be aware of the `mismatched anonymous define() <http://requirejs.org/docs/errors.html#mismatch>`_ error.
